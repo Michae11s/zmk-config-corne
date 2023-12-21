@@ -116,10 +116,10 @@
             //                    | GUI |     | SPC |   | ENT |     | ALT |
 
             bindings = <
-&kp TAB             &kp FSLH    &kp N7        &kp N8  &kp N9  &kp MINUS    &bt BT_SEL 0   &kp C_MUTE  &kp C_VOLUME_UP  &kp C_VOLUME_DOWN  &kp C_PLAY_PAUSE  &bt BT_SEL 3
-&AltCode_plusMinus  &kp PERIOD  &kp NUMBER_4  &kp N5  &kp N6  &kp PLUS     &bt BT_SEL 1   &kp LEFT    &kp UP_ARROW     &kp DOWN           &kp RIGHT         &bt BT_SEL 4
-&altCode_micro      &kp BSPC    &kp N1        &kp N2  &kp N3  &kp N0       &bt BT_SEL 2   &kp HOME    &kp PG_UP        &kp PAGE_DOWN      &kp END           &bt BT_CLR
-                                              &trans  &trans  &trans       &kp RIGHT_ALT  &kp RCTRL   &kp RIGHT_SHIFT
+&kp TAB             &kp FSLH      &kp N7        &kp N8  &kp N9  &kp MINUS    &bt BT_SEL 0   &kp C_MUTE  &kp C_VOLUME_UP  &kp C_VOLUME_DOWN  &kp C_PLAY_PAUSE  &bt BT_SEL 3
+&AltCode_plusMinus  &kp PERIOD    &kp NUMBER_4  &kp N5  &kp N6  &kp PLUS     &bt BT_SEL 1   &kp LEFT    &kp UP_ARROW     &kp DOWN           &kp RIGHT         &bt BT_SEL 4
+&altCode_micro      &kp ASTERISK  &kp N1        &kp N2  &kp N3  &kp N0       &bt BT_SEL 2   &kp HOME    &kp PG_UP        &kp PAGE_DOWN      &kp END           &bt BT_CLR
+                                                &trans  &trans  &trans       &kp RIGHT_ALT  &kp RCTRL   &kp RIGHT_SHIFT
             >;
         };
 
