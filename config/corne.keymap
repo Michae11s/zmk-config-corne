@@ -65,6 +65,11 @@
             bindings = <&to 0>;
             key-positions = <38 39>;
         };
+
+        ctrl_alt_delete {
+            bindings = <&kp LC(LA(DEL))>;
+            key-positions = <15 14 35>;
+        };
     };
 
     macros {
